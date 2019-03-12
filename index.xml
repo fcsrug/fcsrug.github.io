@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meeting Webpage for the Fundamental Computing Group at the RUG</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Meeting Webpage for the Fundamental Computing Group at the RUG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Website made for the Fundamental Computing Group at the University of Groningen</copyright>
+    <lastBuildDate>Wed, 30 Jan 2019 14:01:26 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kickstart Meeting</title>
+      <link>https://example.com/2019/01/kickstart-meeting/</link>
+      <pubDate>Wed, 30 Jan 2019 14:01:26 +0100</pubDate>
+      
+      <guid>https://example.com/2019/01/kickstart-meeting/</guid>
+      <description>The first meeting date will be on the 21st of February at 13h. The paper to be read is called Context-free Session types by Peter Thiemann and Vasco Vasconcelos. It can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Welcome Post</title>
+      <link>https://example.com/2019/01/welcome-post/</link>
+      <pubDate>Wed, 30 Jan 2019 13:10:18 +0100</pubDate>
+      
+      <guid>https://example.com/2019/01/welcome-post/</guid>
+      <description>Welcome to this website. In here members of the Fundamental Commputing Research Group of the University of Groningen will publish the dates and papers for the Reading Group Meetings and other useful information.</description>
+    </item>
+    
+  </channel>
+</rss>
