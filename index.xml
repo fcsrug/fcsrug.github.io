@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Website made for the Fundamental Computing Group at the University of Groningen</copyright>
-    <lastBuildDate>Tue, 12 Mar 2019 13:42:43 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2019 11:33:19 +0200</lastBuildDate>
     
 	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>April Reading Group Meeting</title>
+      <link>https://example.com/2019/04/april-reading-group-meeting/</link>
+      <pubDate>Mon, 15 Apr 2019 11:33:19 +0200</pubDate>
+      
+      <guid>https://example.com/2019/04/april-reading-group-meeting/</guid>
+      <description>The Apil meeting will take a place on the Thursday April 25 at 11:30. The proposed material to be read for this meeting is: http://soundiness.org.</description>
+    </item>
     
     <item>
       <title>Second Meeting</title>
